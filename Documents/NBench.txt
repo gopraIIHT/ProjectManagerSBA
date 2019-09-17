@@ -1,0 +1,16 @@
+Executing Benchmarks in c:\Users\Gopra\SBAProjectManager\server\PerformanceTests\bin\debug\PerformanceTests.dll
+------------ STARTING PerformanceTests.TaskPerfTests+PerformanceTests ---------- 
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9544788
+Elapsed Time - ms: 954.00 ,ms: /s 999.50 , ns / ms: 1,000,501.89
+--------------- END RUN ---------------
+
+--------------- RESULTS: PerformanceTests.TaskPerfTests+PerformanceTests ---------------
+--------------- DATA ---------------
+Elapsed Time: Max: 954.00 ms, Average: 954.00 ms, Min: 954.00 ms, StdDev: 0.00 ms
+Elapsed Time: Max / s: 999.50 ms, Average / s: 999.50 ms, Min / s: 999.50 ms, StdDev / s: 0.00 ms
+
+--------------- ASSERTIONS ---------------
+[PASS] Expected Elapsed Time to must be less than or equal to 5,000.00 ms; actual value was 954.00 ms.
+
+------------ FINISHED PerformanceTests.TaskPerfTests+PerformanceTests ---------- 
